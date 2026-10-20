@@ -1,0 +1,6 @@
+url: https://github.com/Pugto-AI/yue-token-cost
+name: Pugto-AI/yue-token-cost
+category: tools
+description:
+  en: Counts what Chinese, Cantonese and English text actually costs in tokens, with per-token attribution and a reproducible cross-script benchmark.
+  zh: 量出中文、粤语和英文文本实际花费的 token，并给出逐 token 归因与可复现的跨书写系统基准。
